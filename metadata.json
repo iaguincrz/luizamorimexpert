@@ -1,0 +1,8 @@
+{
+  "name": "Luiz Amorim - Personal Trainer Elite",
+  "description": "Landing page de alta conversão para o expert Luiz Amorim, focada em treinamento, reabilitação e consultoria fitness em Pirenópolis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
